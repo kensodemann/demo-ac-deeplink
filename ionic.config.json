@@ -1,0 +1,7 @@
+{
+  "name": "demo-ac-deeplink",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
